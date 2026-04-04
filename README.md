@@ -1,6 +1,6 @@
-# ScamShield Community Database
+# SafeBrowz Community Database
 
-Community-maintained blacklist and whitelist for [ScamShield](https://github.com/meraja34/ScamShield) extension.
+Community-maintained blacklist and whitelist for [SafeBrowz](https://github.com/meraja34/SafeBrowz) Chrome extension.
 
 ## Files
 
@@ -9,10 +9,10 @@ Community-maintained blacklist and whitelist for [ScamShield](https://github.com
 
 ## How it works
 
-1. Users report scam sites via ScamShield extension
-2. Domains added to `reported_by_community` 
+1. Users report scam sites via SafeBrowz extension
+2. Domains added to `reported_by_community`
 3. After verification, moved to `domains` (confirmed scam)
-4. Extension fetches this list daily for instant blocking
+4. Extension fetches this list every 6 hours for instant blocking
 
 ## Contributing
 
