@@ -1,6 +1,6 @@
 # SafeBrowz Community Database
 
-Community-maintained blacklist and whitelist for [SafeBrowz](https://github.com/meraja34/SafeBrowz) Chrome extension.
+Community-maintained blacklist and whitelist for [SafeBrowz](https://safebrowz.com) Chrome extension.
 
 ## Files
 
