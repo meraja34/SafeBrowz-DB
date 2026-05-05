@@ -1,7 +1,8 @@
 {
-  "version": 2,
-  "updated": "2026-05-01",
+  "version": 3,
+  "updated": "2026-05-07",
   "domains": [
-    "medium.com"
+    "medium.com",
+    "dexscreener.com"
   ]
 }
