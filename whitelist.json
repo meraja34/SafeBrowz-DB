@@ -1,8 +1,10 @@
 {
-  "version": 3,
-  "updated": "2026-05-07",
+  "version": 4,
+  "updated": "2026-05-10",
   "domains": [
     "medium.com",
-    "dexscreener.com"
+    "dexscreener.com",
+    "hypria.app",
+    "hypria.xyz"
   ]
 }
