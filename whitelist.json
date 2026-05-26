@@ -1,11 +1,12 @@
 {
-  "version": 5,
-  "updated": "2026-05-21",
+  "version": 6,
+  "updated": "2026-05-26",
   "domains": [
     "medium.com",
     "dexscreener.com",
     "hypria.app",
     "hypria.xyz",
-    "xchedule.xyz"
+    "xchedule.xyz",
+    "watch.fun"
   ]
 }
