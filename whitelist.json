@@ -1,6 +1,6 @@
 {
-  "version": 7,
-  "updated": "2026-05-27",
+  "version": 8,
+  "updated": "2026-06-11",
   "domains": [
     "medium.com",
     "dexscreener.com",
@@ -8,6 +8,7 @@
     "hypria.xyz",
     "xchedule.xyz",
     "watch.fun",
-    "revoke.cash"
+    "revoke.cash",
+    "simuphish.com"
   ]
 }
